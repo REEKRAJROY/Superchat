@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Fullstack chatting application  with Google OAuth
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br>
