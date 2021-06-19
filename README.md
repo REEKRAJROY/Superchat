@@ -14,7 +14,6 @@ This is a chatting application built using React and Firebase. React hook form a
 
 <br>
 <br>
-
 The project has been built following this [Video](https://www.youtube.com/watch?v=zQyrwxMPm88&list=LL&index=1) from Fireship YouTube channel.
 
 
