@@ -19,16 +19,31 @@ The project has been built following this [Video](https://www.youtube.com/watch?
 
 
 
-## Available Scripts
+### 🚀️ Getting Started
 
-In the project directory, you can run:
+The project is deployed here: https://myannonymouschat.herokuapp.com/
 
+For local deployment:-
+
+(1) Clone this repository
+### `git clone https://github.com/REEKRAJROY/Superchat.git` 
+
+(2) Change the working directory
+### `cd superchat`
+
+(3) Install dependencies
+### `npm install`
+
+(4) Run the app
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+(5) Open project at: http://localhost:3000/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+(6) Sign in with your Google account<br>
+
+That's all. You are all set to start your conversation🙌️💯
+
+<br>br>br>br>br>br>br>br>br>br>br>Made with ♥ by 🇮🇳️
+
 
 
