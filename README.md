@@ -43,4 +43,4 @@ For local deployment:-
 
 That's all. You are all set to start your conversation🙌️💯
 
-                                                    Made with ♥ by 🇮🇳️
+                                                    Made with ❤️ in 🇮🇳️
