@@ -41,6 +41,8 @@ For local deployment:-
 
 (6) Sign in with your Google account<br>
 
-That's all. You are all set to start your conversation🙌️💯
+That's all. You are all set to start your conversation💯💯 <br>
 
-                                                    Made with ❤️ in 🇮🇳️
+If you like my work do consider dropping a ⭐️ :)
+
+                                                    Made with 💙️ in 🇮🇳️
