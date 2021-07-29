@@ -21,9 +21,6 @@ The project has been built following this [Video](https://www.youtube.com/watch?
 
 ### 🚀️ Getting Started
 
-
-For local deployment:-
-
 (1) Clone this repository
 ### `git clone https://github.com/REEKRAJROY/Superchat.git` 
 
