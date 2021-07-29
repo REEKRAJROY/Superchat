@@ -21,7 +21,6 @@ The project has been built following this [Video](https://www.youtube.com/watch?
 
 ### 🚀️ Getting Started
 
-The project is deployed here: https://myannonymouschat.herokuapp.com/
 
 For local deployment:-
 
